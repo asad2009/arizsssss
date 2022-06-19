@@ -1,0 +1,26 @@
+.headding{
+    font-size: large;
+    width: 100%;
+    margin: 0px;
+}
+#start,#status,#number{
+    font-size:18px ;
+    border: 3px solid gold;
+    background-color: black;
+    color: rgb(52, 239, 10);
+}
+.copyright{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    line-height: 3;
+    background-color: darkgrey;
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+canvas{
+    border: 2px double lightblue;
+    border-radius: 10px;
+    margin-top: 130px;
+    box-shadow: 5px 5px 5px navajowhite;
+}
